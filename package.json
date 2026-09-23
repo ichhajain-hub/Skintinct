@@ -1,0 +1,15 @@
+{
+  "name": "skinstinct-voice-pipeline",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Telegram -> Gemini triage/draft -> Telegram review pipeline for Skinstinct LinkedIn posts. State lives in data/state.json, committed via the GitHub API. No database, no server to babysit.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "seed-notes": "node scripts/seed-notes.js",
+    "register-webhook": "node scripts/register-webhook.js"
+  },
+  "dependencies": {}
+}
