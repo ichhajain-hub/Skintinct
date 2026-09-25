@@ -1,5 +1,14 @@
 {
-  "notes": [],
+  "notes": [
+    {
+      "id": "n_muh74fta_6ec68ddd",
+      "text": "TEST 3: SPF fatigue is real. Every founder in the category is preaching \"apply every 2 hours,\" but nobody I know does it. The honest version — one solid morning application, one reapply mid-day when you remember, way better than skipping because you feel guilty about the 2hr rule — would win way more customers than the perfect-adherence pitch.",
+      "source": "telegram_text",
+      "created_at": "2026-09-25T16:49:29.616Z",
+      "status": "new",
+      "telegram_message_id": 9
+    }
+  ],
   "drafts": [],
   "meta": {
     "last_triage_run": null,
